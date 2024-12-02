@@ -8,7 +8,11 @@
 ![Static Badge](https://img.shields.io/badge/Private%20API%C2%B4s-blue?style=for-the-badge&logo=pino&logoColor=blue&color=black)
 
 -------------------------------------------------------------------
-# Sistema de Registro de Actividad y Logs con React
+# Sistema de Subida de datos atraves de API Rest
+
+Funcionalidad principal del proyecto es la subida de datos de un archivo .CSV a una base de datos de la plataforma INVAS WMS atraves de una API Rest, utilizando tecnologias como React, Vite, TailwindCSS, para el desarrollo de esta herramienta.
+
+## Sistema de Registro de Actividad y Logs con React
 
 Este proyecto es una aplicación web desarrollada con React que gestiona un sistema de registro de actividades y logs para interacciones con APIs. Permite visualizar el estado de las operaciones realizadas, diferenciando entre éxitos y errores, con soporte para identificar códigos de error HTTP específicos.
 
@@ -54,6 +58,7 @@ Props para pasar datos dinámicos entre componentes.
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
 
 -- Desarrollado por Maximiliano Olave.
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/4poloo/API_Utility/blob/master/SCSHOOT.jpg)
