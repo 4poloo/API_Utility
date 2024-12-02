@@ -56,5 +56,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 -- Desarrollado por Maximiliano Olave.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/4poloo/API_Utility/blob/master/SCSHOOT.jpg)
 
