@@ -61,5 +61,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/4poloo/API_Utility/blob/master/SCSHOOT.jp)
+![App Screenshot](https://github.com/4poloo/API_Utility/blob/master/SCSHOOT.jpg)
 
