@@ -1,7 +1,7 @@
 import React from 'react'
 import Stat from './components/StatusAPI/Stat'
 import Loader from './components/Loader/Loader'
-import FT from "./../public/1650591586319.png"
+import FT from "/1650591586319.png?url"
 
 const App = () => {
   return (

@@ -15,10 +15,7 @@ const APILOG = ({ logs, clearLogs }) => {
             <ul className="space-y-2">
                 {Array.isArray(logs) && logs.length > 0 ? (
                     logs.map((log, index) => (
-                        <li
-                            key={index}
-                            className={`p-2 rounded-md ${log.status === 'success' ? 'bg-green-200' : 'bg-red-200'}`}
-                        >
+                        <li key={index} className={`p-2 rounded-md ${log.status === 'success' ? 'bg-green-200' : 'bg-red-200'}`}>
                             {log.message}
                             {log.status === 'error' && log.code && (
                                 <span className="ml-2 text-sm text-gray-700">
