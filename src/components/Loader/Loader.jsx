@@ -73,8 +73,8 @@ const Loader = () => {
                     }
                 } else {
                     // Si no hay errores lógicos, la carga fue exitosa
-                    alert('El archivo se subió correctamente.');
-                    addLog('success', 'Archivo subido correctamente.');
+                    alert('El archivo se subió correctamente.')
+                    addLog('success', 'Archivo subido correctamente.')
                 }
             } else {
                 // Si la respuesta HTTP no fue exitosa, mostrar el error HTTP
